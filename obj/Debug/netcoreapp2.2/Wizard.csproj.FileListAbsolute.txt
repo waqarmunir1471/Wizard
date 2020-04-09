@@ -1,0 +1,11 @@
+/Users/admin/Desktop/C#/Wizard/bin/Debug/netcoreapp2.2/Wizard.deps.json
+/Users/admin/Desktop/C#/Wizard/bin/Debug/netcoreapp2.2/Wizard.runtimeconfig.json
+/Users/admin/Desktop/C#/Wizard/bin/Debug/netcoreapp2.2/Wizard.runtimeconfig.dev.json
+/Users/admin/Desktop/C#/Wizard/bin/Debug/netcoreapp2.2/Wizard.dll
+/Users/admin/Desktop/C#/Wizard/bin/Debug/netcoreapp2.2/Wizard.pdb
+/Users/admin/Desktop/C#/Wizard/obj/Debug/netcoreapp2.2/Wizard.csprojAssemblyReference.cache
+/Users/admin/Desktop/C#/Wizard/obj/Debug/netcoreapp2.2/Wizard.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/C#/Wizard/obj/Debug/netcoreapp2.2/Wizard.AssemblyInfoInputs.cache
+/Users/admin/Desktop/C#/Wizard/obj/Debug/netcoreapp2.2/Wizard.AssemblyInfo.cs
+/Users/admin/Desktop/C#/Wizard/obj/Debug/netcoreapp2.2/Wizard.dll
+/Users/admin/Desktop/C#/Wizard/obj/Debug/netcoreapp2.2/Wizard.pdb
